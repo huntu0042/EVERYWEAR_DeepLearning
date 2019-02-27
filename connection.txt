@@ -1,0 +1,1 @@
+000001_0 000007_1.png data/test_img/men_pants/images/ testdata/cherry/stage/

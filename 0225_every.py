@@ -389,7 +389,9 @@ def GetFlask():
 			 #c.send(q.encode('utf-8'))
 def save_product_mask(raw, mask, composition_name, tag=""):
   
-  mask = process_raw_mask(mask)
+  
+  print(mask.shape)
+  print(raw.shape)
   fg = cv2.bitwise_and(raw, raw, mask=mask)
   info_data = {}
   info_data['product_mask'] = fg
@@ -432,7 +434,9 @@ def save_model_mask(model_image, raw, mask, composition_name, interval, isUpper,
   with open(FLAGS.result_dir_stage2 + composition_name + '0_pkl.pkl', 'wb') as f5:
     pkl.dump(info_data, f5, pkl.HIGHEST_PROTOCOL)
   if tag == 'save':
-    return bg  
+    return bg
+
+  return final_mask
 def final_trim_image(final_image):
   image_height = final_image.shape[0]
   image_width = final_image.shape[1]
@@ -727,9 +731,12 @@ def main(unused_argv):
                 composition_mask = _process_ratio(model_image_height, model_image_width,
                                   composition_mask)
  
-              save_model_mask(model_image, composition_raw, composition_mask, 
+              final_mask = save_model_mask(model_image, composition_raw, composition_mask, 
                             middle_composition_name, interval, FLAGS.isUpper, tag="")
-              save_product_mask(composition_raw, composition_mask, middle_composition_name)
+              print("final mask:")
+              print(final_mask.shape)
+              print(composition_raw.shape)
+              save_product_mask(composition_raw, final_mask, middle_composition_name)
               #합성 수행
             
             post1 = time.time()

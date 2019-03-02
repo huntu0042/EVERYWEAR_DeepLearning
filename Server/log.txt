@@ -1,0 +1,884 @@
+ * Serving Flask app "flask_server_to_deep" (lazy loading)
+ * Environment: production
+   WARNING: Do not use the development server in a production environment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://172.31.30.97:10008/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 151-196-917
+211.253.229.68 - - [16/Nov/2018 11:48:28] "POST /submit HTTP/1.1" 200 -
+211.253.229.68 - - [16/Nov/2018 11:48:32] "POST /submit HTTP/1.1" 200 -
+211.253.229.68 - - [16/Nov/2018 11:48:51] "POST /submit HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 01:32:16] "POST /submit HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 01:32:21] "POST /submit HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 01:32:26] "POST /submit HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 01:32:34] "POST /submit HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 04:23:15] "POST /submit HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 04:59:30] "POST /submit HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 04:59:58] "POST /submit HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 06:31:12] "POST /submit HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 06:31:26] "POST /submit HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 06:33:45] "POST /submit HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 06:34:20] "POST /submit HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 06:35:06] "POST /submit HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 06:35:14] "POST /submit HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 06:35:44] "POST /submit HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 06:36:08] "POST /submit HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 06:36:16] "POST /submit HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 06:36:42] "POST /submit HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 06:37:17] "POST /submit HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 06:39:07] "POST /submit HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 06:39:21] "POST /submit HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 07:03:30] "POST /submit HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 07:23:46] "POST /submit HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 07:38:05] "POST /submit HTTP/1.1" 200 -
+USER ID    : test
+image id : ccbfc56bde3ecd720436a4ba0516365d
+Upper PRODUCT ID : 1542294479
+Lower PRODUCT ID : 000000
+isupper : 1
+CATEGORY   : 1003
+test ccbfc56bde3ecd720436a4ba0516365d 1542294479 000000 1 1003
+Connected to ip-172-31-30-97
+test ccbfc56bde3ecd720436a4ba0516365d 1542294479 000000 1 1003
+##
+
+
+62
+
+
+
+USER ID    : test
+image id : ccbfc56bde3ecd720436a4ba0516365d
+Upper PRODUCT ID : 1542298211
+Lower PRODUCT ID : 000000
+isupper : 1
+CATEGORY   : 1003
+test ccbfc56bde3ecd720436a4ba0516365d 1542298211 000000 1 1003
+Connected to ip-172-31-30-97
+test ccbfc56bde3ecd720436a4ba0516365d 1542298211 000000 1 1003
+##
+
+
+62
+
+
+
+USER ID    : test
+image id : ccbfc56bde3ecd720436a4ba0516365d
+Upper PRODUCT ID : 1535095820
+Lower PRODUCT ID : 000000
+isupper : 1
+CATEGORY   : 1001
+test ccbfc56bde3ecd720436a4ba0516365d 1535095820 000000 1 1001
+Connected to ip-172-31-30-97
+test ccbfc56bde3ecd720436a4ba0516365d 1535095820 000000 1 1001
+##
+
+
+62
+
+
+
+USER ID    : test
+image id : ccbfc56bde3ecd720436a4ba0516365d
+Upper PRODUCT ID : 1539762703
+Lower PRODUCT ID : 000000
+isupper : 1
+CATEGORY   : 1002
+test ccbfc56bde3ecd720436a4ba0516365d 1539762703 000000 1 1002
+Connected to ip-172-31-30-97
+test ccbfc56bde3ecd720436a4ba0516365d 1539762703 000000 1 1002
+##
+
+
+62
+
+
+
+USER ID    : test
+image id : ccbfc56bde3ecd720436a4ba0516365d
+Upper PRODUCT ID : 1539762747
+Lower PRODUCT ID : 000000
+isupper : 1
+CATEGORY   : 1002
+test ccbfc56bde3ecd720436a4ba0516365d 1539762747 000000 1 1002
+Connected to ip-172-31-30-97
+test ccbfc56bde3ecd720436a4ba0516365d 1539762747 000000 1 1002
+##
+
+
+62
+
+
+
+USER ID    : test
+image id : ccbfc56bde3ecd720436a4ba0516365d
+Upper PRODUCT ID : 1539762779
+Lower PRODUCT ID : 000000
+isupper : 1
+CATEGORY   : 1002
+test ccbfc56bde3ecd720436a4ba0516365d 1539762779 000000 1 1002
+Connected to ip-172-31-30-97
+test ccbfc56bde3ecd720436a4ba0516365d 1539762779 000000 1 1002
+##
+
+
+62
+
+
+
+USER ID    : test
+image id : ccbfc56bde3ecd720436a4ba0516365d
+Upper PRODUCT ID : 1539762827
+Lower PRODUCT ID : 000000
+isupper : 1
+CATEGORY   : 1001
+test ccbfc56bde3ecd720436a4ba0516365d 1539762827 000000 1 1001
+Connected to ip-172-31-30-97
+test ccbfc56bde3ecd720436a4ba0516365d 1539762827 000000 1 1001
+##
+
+
+62
+
+
+
+USER ID    : test
+image id : ccbfc56bde3ecd720436a4ba0516365d
+Upper PRODUCT ID : 1539762747
+Lower PRODUCT ID : 000000
+isupper : 1
+CATEGORY   : 1002
+test ccbfc56bde3ecd720436a4ba0516365d 1539762747 000000 1 1002
+Connected to ip-172-31-30-97
+test ccbfc56bde3ecd720436a4ba0516365d 1539762747 000000 1 1002
+##
+
+
+62
+
+
+
+USER ID    : test
+image id : ccbfc56bde3ecd720436a4ba0516365d
+Upper PRODUCT ID : 1539762875
+Lower PRODUCT ID : 000000
+isupper : 1
+CATEGORY   : 1001
+test ccbfc56bde3ecd720436a4ba0516365d 1539762875 000000 1 1001
+Connected to ip-172-31-30-97
+test ccbfc56bde3ecd720436a4ba0516365d 1539762875 000000 1 1001
+##
+
+
+62
+
+
+
+USER ID    : test
+image id : ccbfc56bde3ecd720436a4ba0516365d
+Upper PRODUCT ID : 1539762703
+Lower PRODUCT ID : 000000
+isupper : 1
+CATEGORY   : 1002
+test ccbfc56bde3ecd720436a4ba0516365d 1539762703 000000 1 1002
+Connected to ip-172-31-30-97
+test ccbfc56bde3ecd720436a4ba0516365d 1539762703 000000 1 1002
+##
+
+
+62
+
+
+
+USER ID    : test
+image id : ccbfc56bde3ecd720436a4ba0516365d
+Upper PRODUCT ID : 1542294479
+Lower PRODUCT ID : 000000
+isupper : 1
+CATEGORY   : 1003
+test ccbfc56bde3ecd720436a4ba0516365d 1542294479 000000 1 1003
+Connected to ip-172-31-30-97
+test ccbfc56bde3ecd720436a4ba0516365d 1542294479 000000 1 1003
+##
+
+
+62
+
+
+
+USER ID    : test
+image id : ccbfc56bde3ecd720436a4ba0516365d
+Upper PRODUCT ID : 1539762779
+Lower PRODUCT ID : 000000
+isupper : 1
+CATEGORY   : 1002
+test ccbfc56bde3ecd720436a4ba0516365d 1539762779 000000 1 1002
+Connected to ip-172-31-30-97
+test ccbfc56bde3ecd720436a4ba0516365d 1539762779 000000 1 1002
+##
+
+
+62
+
+
+
+USER ID    : test
+image id : ccbfc56bde3ecd720436a4ba0516365d
+Upper PRODUCT ID : 1539762779
+Lower PRODUCT ID : 000000
+isupper : 1
+CATEGORY   : 1002
+test ccbfc56bde3ecd720436a4ba0516365d 1539762779 000000 1 1002
+Connected to ip-172-31-30-97
+test ccbfc56bde3ecd720436a4ba0516365d 1539762779 000000 1 1002
+##
+
+
+62
+
+
+
+USER ID    : test
+image id : ccbfc56bde3ecd720436a4ba0516365d
+Upper PRODUCT ID : 1539762779
+Lower PRODUCT ID : 000000
+isupper : 1
+CATEGORY   : 1002
+test ccbfc56bde3ecd720436a4ba0516365d 1539762779 000000 1 1002
+Connected to ip-172-31-30-97
+test ccbfc56bde3ecd720436a4ba0516365d 1539762779 000000 1 1002
+##
+
+
+62
+
+
+
+USER ID    : test
+image id : ccbfc56bde3ecd720436a4ba0516365d
+Upper PRODUCT ID : 1539762779
+Lower PRODUCT ID : 000000
+isupper : 1
+CATEGORY   : 1002
+test ccbfc56bde3ecd720436a4ba0516365d 1539762779 000000 1 1002
+Connected to ip-172-31-30-97
+test ccbfc56bde3ecd720436a4ba0516365d 1539762779 000000 1 1002
+##
+
+
+62
+
+
+
+USER ID    : test
+image id : ccbfc56bde3ecd720436a4ba0516365d
+Upper PRODUCT ID : 1539762779
+Lower PRODUCT ID : 000000
+isupper : 1
+CATEGORY   : 1002
+test ccbfc56bde3ecd720436a4ba0516365d 1539762779 000000 1 1002
+Connected to ip-172-31-30-97
+test ccbfc56bde3ecd720436a4ba0516365d 1539762779 000000 1 1002
+##
+
+
+62
+
+
+
+USER ID    : test
+image id : ccbfc56bde3ecd720436a4ba0516365d
+Upper PRODUCT ID : 1539762779
+Lower PRODUCT ID : 000000
+isupper : 1
+CATEGORY   : 1002
+test ccbfc56bde3ecd720436a4ba0516365d 1539762779 000000 1 1002
+Connected to ip-172-31-30-97
+test ccbfc56bde3ecd720436a4ba0516365d 1539762779 000000 1 1002
+##
+
+
+62
+
+
+
+USER ID    : test
+image id : ccbfc56bde3ecd720436a4ba0516365d
+Upper PRODUCT ID : 000000
+Lower PRODUCT ID : 
+isupper : 1
+CATEGORY   : 1002
+wrong data
+
+
+
+USER ID    : test
+image id : ccbfc56bde3ecd720436a4ba0516365d
+Upper PRODUCT ID : 1539762779
+Lower PRODUCT ID : 000000
+isupper : 1
+CATEGORY   : 1002
+test ccbfc56bde3ecd720436a4ba0516365d 1539762779 000000 1 1002
+Connected to ip-172-31-30-97
+test ccbfc56bde3ecd720436a4ba0516365d 1539762779 000000 1 1002
+##
+
+
+62
+
+
+
+USER ID    : test
+image id : ccbfc56bde3ecd720436a4ba0516365d
+Upper PRODUCT ID : 1539762779
+Lower PRODUCT ID : 000000
+isupper : 1
+CATEGORY   : 1002
+test ccbfc56bde3ecd720436a4ba0516365d 1539762779 000000 1 1002
+Connected to ip-172-31-30-97
+test ccbfc56bde3ecd720436a4ba0516365d 1539762779 000000 1 1002
+##
+
+
+62
+
+
+
+USER ID    : test
+image id : ccbfc56bde3ecd720436a4ba0516365d
+Upper PRODUCT ID : 1539762779
+Lower PRODUCT ID : 000000
+isupper : 1
+CATEGORY   : 1002
+test ccbfc56bde3ecd720436a4ba0516365d 1539762779 000000 1 1002
+Connected to ip-172-31-30-97
+test ccbfc56bde3ecd720436a4ba0516365d 1539762779 000000 1 1002
+##
+
+
+62
+
+
+
+USER ID    : test
+image id : ccbfc56bde3ecd720436a4ba0516365d
+Upper PRODUCT ID : 1539762779
+Lower PRODUCT ID : 000000
+isupper : 1
+CATEGORY   : 1002
+test ccbfc56bde3ecd720436a4ba0516365d 1539762779 000000 1 1002
+Connected to ip-172-31-30-97
+test ccbfc56bde3ecd720436a4ba0516365d 1539762779 000000 1 1002
+##
+
+
+62
+
+
+
+USER ID    : test
+image id : ccbfc56bde3ecd720436a4ba0516365d
+Upper PRODUCT ID : 1539762875
+Lower PRODUCT ID : 000000
+isupper : 1
+CATEGORY   : 1001
+test ccbfc56bde3ecd720436a4ba0516365d 1539762875 000000 1 1001
+Connected to ip-172-31-30-97
+test ccbfc56bde3ecd720436a4ba0516365d 1539762875 000000 1 1001
+##
+
+
+62
+
+
+
+USER ID    : test
+image id : ccbfc56bde3ecd720436a4ba0516365d
+Upper PRODUCT ID : 1542298211
+Lower PRODUCT ID : 000000
+isupper : 1
+CATEGORY   : 1003
+test ccbfc56bde3ecd720436a4ba0516365d 1542298211 000000 1 1003
+Connected to ip-172-31-30-97
+test ccbfc56bde3ecd720436a4ba0516365d 1542298211 000000 1 1003
+##
+
+
+62
+
+
+
+USER ID    : test
+image id : ccbfc56bde3ecd720436a4ba0516365d
+Upper PRODUCT ID : 1542294479
+Lower PRODUCT ID : 000000
+isupper : 1
+CATEGORY   : 1003
+test ccbfc56bde3ecd720436a4ba0516365d 1542294479 000000 1 1003
+Connected to ip-172-31-30-97
+test ccbfc56bde3ecd720436a4ba0516365d 1542294479 000000 1 1003
+##
+
+
+62
+
+
+
+USER ID    : test
+image id : ccbfc56bde3ecd720436a4ba0516365d
+Upper PRODUCT ID : 1539762779
+Lower PRODUCT ID : 000000
+isupper : 1
+CATEGORY   : 1002
+test ccbfc56bde3ecd720436a4ba0516365d 1539762779 000000 1 1002
+Connected to ip-172-31-30-97
+test ccbfc56bde3ecd720436a4ba0516365d 1539762779 000000 1 1002
+##
+
+
+62
+
+
+
+USER ID    : test
+image id : ccbfc56bde3ecd720436a4ba0516365d
+Upper PRODUCT ID : 1539762779
+Lower PRODUCT ID : 1539762594
+isupper : 0
+CATEGORY   : 1101
+test ccbfc56bde3ecd720436a4ba0516365d 1539762779 1539762594 0 1101211.253.229.68 - - [17/Nov/2018 07:38:18] "POST /submit HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 07:42:19] "POST /submit HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 07:43:26] "POST /submit HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 07:44:04] "POST /submit HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 08:26:14] "POST /userupload HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 08:27:04] "POST /userupload HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 08:29:23] "POST /userupload HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 08:29:38] "POST /userupload HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 08:29:39] "POST /userupload HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 08:29:52] "POST /userupload HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 09:00:38] "POST /submit HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 09:00:51] "POST /submit HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 09:00:59] "POST /submit HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 09:01:06] "POST /submit HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 09:01:12] "POST /submit HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 09:01:22] "POST /submit HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 09:10:25] "POST /submit HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 09:10:30] "POST /submit HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 09:10:41] "POST /submit HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 09:11:05] "POST /submit HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 09:11:11] "POST /submit HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 09:29:11] "POST /submit HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 09:30:03] "POST /submit HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 09:35:11] "POST /submit HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 09:35:15] "POST /submit HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 11:23:42] "POST /submit HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 11:26:18] "POST /submit HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 11:26:26] "POST /submit HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 11:26:35] "POST /submit HTTP/1.1" 200 -
+
+Connected to ip-172-31-30-97
+test ccbfc56bde3ecd720436a4ba0516365d 1539762779 1539762594 0 1101
+##
+
+
+66
+
+
+
+USER ID    : test
+image id : ccbfc56bde3ecd720436a4ba0516365d
+Upper PRODUCT ID : 1539762703
+Lower PRODUCT ID : 000000
+isupper : 1
+CATEGORY   : 1002
+test ccbfc56bde3ecd720436a4ba0516365d 1539762703 000000 1 1002
+Connected to ip-172-31-30-97
+test ccbfc56bde3ecd720436a4ba0516365d 1539762703 000000 1 1002
+##
+
+
+62
+
+
+
+USER ID    : test
+image id : ccbfc56bde3ecd720436a4ba0516365d
+Upper PRODUCT ID : 1535188803
+Lower PRODUCT ID : 000000
+isupper : 1
+CATEGORY   : 1001
+test ccbfc56bde3ecd720436a4ba0516365d 1535188803 000000 1 1001
+Connected to ip-172-31-30-97
+test ccbfc56bde3ecd720436a4ba0516365d 1535188803 000000 1 1001
+##
+
+
+62
+
+
+
+USER ID    : test
+image id : ccbfc56bde3ecd720436a4ba0516365d
+Upper PRODUCT ID : 1539762875
+Lower PRODUCT ID : 000000
+isupper : 1
+CATEGORY   : 1001
+test ccbfc56bde3ecd720436a4ba0516365d 1539762875 000000 1 1001
+Connected to ip-172-31-30-97
+test ccbfc56bde3ecd720436a4ba0516365d 1539762875 000000 1 1001
+##
+
+
+62
+
+
+
+USER ID    : test
+image id : 2afaf86e75c78a97197d0368f3ae9590
+ERRROR :  [Errno 111] Connection refused
+USER ID    : test
+image id : 5955cc47a52aeb590859c779f8640c7f
+ERRROR :  [Errno 111] Connection refused
+USER ID    : test
+image id : eea18e7e7295d818c894e1bc8dab46f2
+ERRROR :  [Errno 111] Connection refused
+USER ID    : test
+image id : adfb20b89940714e0a8f403fd767bb41
+ERRROR :  [Errno 111] Connection refused
+USER ID    : test
+image id : a8c4757c4e0feea7876e328ef33dbc27
+ERRROR :  [Errno 111] Connection refused
+USER ID    : test
+image id : 9188698d770496abb83749c863f491b2
+ERRROR :  [Errno 111] Connection refused
+USER ID    : test07
+image id : 6bf4c58e4193716d7c8cc16fa1176274
+Upper PRODUCT ID : 1539762827
+Lower PRODUCT ID : 000000
+isupper : 1
+CATEGORY   : 1001
+test07 6bf4c58e4193716d7c8cc16fa1176274 1539762827 000000 1 1001
+Connected to ip-172-31-30-97
+test07 6bf4c58e4193716d7c8cc16fa1176274 1539762827 000000 1 1001
+##
+
+
+64
+
+
+
+USER ID    : test07
+image id : 6bf4c58e4193716d7c8cc16fa1176274
+Upper PRODUCT ID : 1539762827
+Lower PRODUCT ID : 1539762669
+isupper : 0
+CATEGORY   : 1101
+test07 6bf4c58e4193716d7c8cc16fa1176274 1539762827 1539762669 0 1101
+Connected to ip-172-31-30-97
+test07 6bf4c58e4193716d7c8cc16fa1176274 1539762827 1539762669 0 1101
+##
+
+
+68
+
+
+
+USER ID    : test07
+image id : 6bf4c58e4193716d7c8cc16fa1176274
+Upper PRODUCT ID : 1535094199
+Lower PRODUCT ID : 1539762669
+isupper : 1
+CATEGORY   : 1001
+test07 6bf4c58e4193716d7c8cc16fa1176274 1535094199 1539762669 1 1001
+Connected to ip-172-31-30-97
+test07 6bf4c58e4193716d7c8cc16fa1176274 1535094199 1539762669 1 1001
+##
+
+
+68
+
+
+
+USER ID    : test07
+image id : 6bf4c58e4193716d7c8cc16fa1176274
+Upper PRODUCT ID : 1542298211
+Lower PRODUCT ID : 1539762669
+isupper : 1
+CATEGORY   : 1003
+test07 6bf4c58e4193716d7c8cc16fa1176274 1542298211 1539762669 1 1003
+Connected to ip-172-31-30-97
+test07 6bf4c58e4193716d7c8cc16fa1176274 1542298211 1539762669 1 1003
+##
+
+
+68
+
+
+
+USER ID    : test07
+image id : 6bf4c58e4193716d7c8cc16fa1176274
+Upper PRODUCT ID : 1535187668
+Lower PRODUCT ID : 1539762669
+isupper : 1
+CATEGORY   : 1001
+test07 6bf4c58e4193716d7c8cc16fa1176274 1535187668 1539762669 1 1001
+Connected to ip-172-31-30-97
+test07 6bf4c58e4193716d7c8cc16fa1176274 1535187668 1539762669 1 1001
+##
+
+
+68
+
+
+
+USER ID    : test07
+image id : 6bf4c58e4193716d7c8cc16fa1176274
+Upper PRODUCT ID : 1539762779
+Lower PRODUCT ID : 1539762669
+isupper : 1
+CATEGORY   : 1002
+test07 6bf4c58e4193716d7c8cc16fa1176274 1539762779 1539762669 1 1002
+Connected to ip-172-31-30-97
+test07 6bf4c58e4193716d7c8cc16fa1176274 1539762779 1539762669 1 1002
+##
+
+
+68
+
+
+
+USER ID    : test07
+image id : 6bf4c58e4193716d7c8cc16fa1176274
+Upper PRODUCT ID : 1542298211
+Lower PRODUCT ID : 1539762669
+isupper : 1
+CATEGORY   : 1003
+test07 6bf4c58e4193716d7c8cc16fa1176274 1542298211 1539762669 1 1003
+Connected to ip-172-31-30-97
+test07 6bf4c58e4193716d7c8cc16fa1176274 1542298211 1539762669 1 1003
+##
+
+
+68
+
+
+
+USER ID    : test07
+image id : 6bf4c58e4193716d7c8cc16fa1176274
+Upper PRODUCT ID : 1542294479
+Lower PRODUCT ID : 1539762669
+isupper : 1
+CATEGORY   : 1003
+test07 6bf4c58e4193716d7c8cc16fa1176274 1542294479 1539762669 1 1003
+Connected to ip-172-31-30-97
+test07 6bf4c58e4193716d7c8cc16fa1176274 1542294479 1539762669 1 1003
+##
+
+
+68
+
+
+
+USER ID    : test07
+image id : 6bf4c58e4193716d7c8cc16fa1176274
+Upper PRODUCT ID : 1542294479
+Lower PRODUCT ID : 1539762594
+isupper : 0
+CATEGORY   : 1101
+test07 6bf4c58e4193716d7c8cc16fa1176274 1542294479 1539762594 0 1101
+Connected to ip-172-31-30-97
+test07 6bf4c58e4193716d7c8cc16fa1176274 1542294479 1539762594 0 1101
+##
+
+
+68
+
+
+
+USER ID    : test07
+image id : 6bf4c58e4193716d7c8cc16fa1176274
+Upper PRODUCT ID : 1542298211
+Lower PRODUCT ID : 1539762594
+isupper : 1
+CATEGORY   : 1003
+test07 6bf4c58e4193716d7c8cc16fa1176274 1542298211 1539762594 1 1003
+Connected to ip-172-31-30-97
+test07 6bf4c58e4193716d7c8cc16fa1176274 1542298211 1539762594 1 1003
+##
+
+
+68
+
+
+
+USER ID    : test07
+image id : 6bf4c58e4193716d7c8cc16fa1176274
+Upper PRODUCT ID : 1539762779
+Lower PRODUCT ID : 1539762594
+isupper : 1
+CATEGORY   : 1002
+test07 6bf4c58e4193716d7c8cc16fa1176274 1539762779 1539762594 1 1002
+Connected to ip-172-31-30-97
+test07 6bf4c58e4193716d7c8cc16fa1176274 1539762779 1539762594 1 1002
+##
+
+
+68
+
+
+
+USER ID    : test07
+image id : 6bf4c58e4193716d7c8cc16fa1176274
+Upper PRODUCT ID : 1539762827
+Lower PRODUCT ID : 000000
+isupper : 1
+CATEGORY   : 1001
+test07 6bf4c58e4193716d7c8cc16fa1176274 1539762827 000000 1 1001
+Connected to ip-172-31-30-97
+test07 6bf4c58e4193716d7c8cc16fa1176274 1539762827 000000 1 1001
+##
+
+
+64
+
+
+
+USER ID    : test07
+image id : 6bf4c58e4193716d7c8cc16fa1176274
+Upper PRODUCT ID : 000000
+Lower PRODUCT ID : 1539761942
+isupper : 0
+CATEGORY   : 1101
+test07 6bf4c58e4193716d7c8cc16fa1176274 000000 1539761942 0 1101
+Connected to ip-172-31-30-97
+test07 6bf4c58e4193716d7c8cc16fa1176274 000000 1539761942 0 1101
+##
+
+
+64
+
+
+
+USER ID    : test
+image id : 817209ac6e4231a850c376b3e3f5204a
+Upper PRODUCT ID : 1539762875
+Lower PRODUCT ID : 000000
+isupper : 1
+CATEGORY   : 1001
+test 817209ac6e4231a850c376b3e3f5204a 1539762875 000000 1 1001
+Connected to ip-172-31-30-97
+test 817209ac6e4231a850c376b3e3f5204a 1539762875 000000 1 1001
+##
+
+
+62
+
+
+
+USER ID    : test
+image id : 817209ac6e4231a850c376b3e3f5204a
+Upper PRODUCT ID : 1542298211
+Lower PRODUCT ID : 000000
+isupper : 1
+CATEGORY   : 1003
+test 817209ac6e4231a850c376b3e3f5204a 1542298211 000000 1 1003
+Connected to ip-172-31-30-97
+test 817209ac6e4231a850c376b3e3f5204a 1542298211 000000 1 1003
+##
+
+
+62
+
+
+
+USER ID    : test
+image id : b09fb4a7803788e63b098b6ecb3197d8
+Upper PRODUCT ID : 1535187668
+Lower PRODUCT ID : 000000
+isupper : 1
+CATEGORY   : 1001
+test b09fb4a7803788e63b098b6ecb3197d8 1535187668 000000 1 1001
+Connected to ip-172-31-30-97
+test b09fb4a7803788e63b098b6ecb3197d8 1535187668 000000 1 1001
+##
+
+
+62
+
+
+
+USER ID    : test07
+image id : 6bf4c58e4193716d7c8cc16fa1176274
+Upper PRODUCT ID : 1535187668
+Lower PRODUCT ID : 000000
+isupper : 1
+CATEGORY   : 1001
+test07 6bf4c58e4193716d7c8cc16fa1176274 1535187668 000000 1 1001
+Connected to ip-172-31-30-97
+test07 6bf4c58e4193716d7c8cc16fa1176274 1535187668 000000 1 1001
+##
+
+
+64
+
+
+
+USER ID    : test07
+image id : 6bf4c58e4193716d7c8cc16fa1176274
+Upper PRODUCT ID : 1535187668
+Lower PRODUCT ID : 1539762669
+isupper : 0
+CATEGORY   : 1101
+test07 6bf4c58e4193716d7c8cc16fa1176274 1535187668 1539762669 0 1101
+Connected to ip-172-31-30-97
+test07 6bf4c58e4193716d7c8cc16fa1176274 1535187668 1539762669 0 1101
+##
+
+
+68
+
+
+
+USER ID    : test07
+image id : 6bf4c58e4193716d7c8cc16fa1176274
+Upper PRODUCT ID : 1539762747
+Lower PRODUCT ID : 1539762669
+isupper : 1
+CATEGORY   : 1002
+test07 6bf4c58e4193716d7c8cc16fa1176274 1539762747 1539762669 1 1002
+Connected to ip-172-31-30-97
+test07 6bf4c58e4193716d7c8cc16fa1176274 1539762747 1539762669 1 1002
+##
+
+
+68
+
+
+
+USER ID    : test07
+image id : 6bf4c58e4193716d7c8cc16fa1176274
+Upper PRODUCT ID : 1535187668
+Lower PRODUCT ID : 000000
+isupper : 1
+CATEGORY   : 1001
+test07 6bf4c58e4193716d7c8cc16fa1176274 1535187668 000000 1 1001
+Connected to ip-172-31-30-97
+test07 6bf4c58e4193716d7c8cc16fa1176274 1535187668 000000 1 1001
+##
+
+
+64
+
+
+211.253.229.68 - - [17/Nov/2018 11:27:13] "POST /submit HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 11:27:47] "POST /submit HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 11:35:23] "POST /submit HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 12:30:52] "POST /submit HTTP/1.1" 200 -
+211.253.229.68 - - [17/Nov/2018 12:34:37] "POST /submit HTTP/1.1" 200 -
+220.70.24.241 - - [17/Nov/2018 12:36:01] "GET / HTTP/1.1" 200 -
+220.70.24.241 - - [17/Nov/2018 12:36:02] "GET /favicon.ico HTTP/1.1" 404 -
+220.70.24.241 - - [17/Nov/2018 12:38:34] "GET / HTTP/1.1" 200 -
+220.70.24.241 - - [17/Nov/2018 12:38:41] "GET /userupload HTTP/1.1" 200 -

@@ -23,7 +23,7 @@ r=1; % annealing rate
 w=4;
 
 if display_flag
-cmap=flipud(gray);
+cmap=flipud(gray)
 end
 
 [N1,N2]=size(V1);

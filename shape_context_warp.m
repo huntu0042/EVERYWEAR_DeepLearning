@@ -5,7 +5,7 @@
 %userID = '93piru';
 addpath('shape_context')
 %DATA_ROOT='data/men_tshirts/';
-%MASK_DIR= sprintf('%s%s%s', '../testdata/', userID, '/stage/tshirts_tps/00015000_'); % ¸ðµ¨ÀÇ ÇÐ½À¼ö¿¡ µû¶ó ¹Ù²Þ
+%MASK_DIR= sprintf('%s%s%s', '../testdata/', userID, '/stage/tshirts_tps/00015000_'); % ï¿½ï¿½ï¿½ï¿½ ï¿½Ð½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ù²ï¿½
 
 % Check if using MATLAB or Octave
 isOctave = exist('OCTAVE_VERSION', 'builtin') ~= 0;
@@ -27,7 +27,7 @@ n_control = 10;
 for i = 1:1 %length(image1) % only run over 1 image (for now)
     image_name1 = image1{i};
     image_name2_extension = image2{i};
-    [path, image_name2, extension] = fileparts(image_name2_extension);
+    [path, image_name2, extension] = fileparts(image_name2_extension)
     %image_name1 = sprintf('%s%s', image1{i}, '.jpg');
     %image_name2 = sprintf('%s%s', image1{i}, '.png');
     DATA_ROOT = DATA_ROOT_LIST{i};

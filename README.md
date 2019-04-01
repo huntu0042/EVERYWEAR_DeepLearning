@@ -33,3 +33,10 @@ objective : 로컬에서 버전을 업데이트하고 변경 사항 있을 시 �
 ## ver 0.0.3 (2019.3.2) ##
 1. post_test_every.py 생성
     - 테스트를 한꺼번에 돌리기 
+
+## ver 0.0.4 (2019.4.1) ##
+1. trim_image.py
+    - 옷을 사진 사이즈에 맞춰서 자르는 코드
+2. 0318_every.py
+    - tps로 옷을 warping하는 과정을 제거
+    - stage폴더에 GMM으로 warping한 옷이 있을 때 그것을 tps_image로 사용함

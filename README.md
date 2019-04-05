@@ -40,3 +40,9 @@ objective : 로컬에서 버전을 업데이트하고 변경 사항 있을 시 �
 2. 0318_every.py
     - tps로 옷을 warping하는 과정을 제거
     - stage폴더에 GMM으로 warping한 옷이 있을 때 그것을 tps_image로 사용함
+
+## ver 0.0.5 (2019.4.4) ##
+1. magnify_cloth.py, magnify_mask.py 추가
+    - 옷 이미지를 다소 확대하여 적용시키는 모듈
+2. 0404_every.py
+    - fg, bg를 각각 확대 후 적용시키도록 메인 수정

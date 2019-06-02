@@ -1,17 +1,17 @@
 ---
-title : Everywear tensorflow serving
+title : Everywear image-preprocessing tensorflow serving
 version : 0.0.1
 writer : khosungpil
 type : Version document(official)
 local : soma05
-objective : Everywear tensorflow serving 문서
+objective : Everywear image-preprocessing tensorflow serving 문서
 ---
 ## ver 0.0.1 ##
 1. 서빙 초안 문서 작성
 
 <hr>
 
-## Saved_model(RM) ##
+## semantic segment parsing ##
 &nbsp;&nbsp; Refinement Model serving 작업을 진행했으며 카테고리 별로 작업이 진행된 것은 아니고 graph에 input을 넣었을 때 정확하게 output이 나오는 지 테스트 한 상태.
 ### Args ###
 ~~~python
